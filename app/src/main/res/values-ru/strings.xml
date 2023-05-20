@@ -768,15 +768,15 @@
     <string name="sponsor_block_api_url_title">API сайт</string>
     <string name="sponsor_block_api_url_summary">Сайт для использования при запросе API SponsorBlock. Должно быть установлено для работы SponsorBlock.</string>
     <string name="sponsor_block_notifications_title">Сообщать, когда спонсоры пропущены</string>
-    <string name="sponsor_block_notifications_summary">Show a toast notification when a sponsor is automatically skipped.</string>
+    <string name="sponsor_block_notifications_summary">Показывать тост-уведомление, когда спонсор автоматически пропускается.</string>
     <string name="sponsor_block_privacy_title">Посмотреть Политику Приватность</string>
     <string name="sponsor_block_privacy_summary">Посмотреть политику приватности SponsorBlock.</string>
-    <string name="sponsor_block_api_url_help_text">This is the URL that will be queried when the application needs to know which parts of a video to skip.\n\nYou can set the official URL by clicking the \'Use Official\' option below, though it is highly recommended you view SponsorBlock\'s privacy policy before you do.</string>
+    <string name="sponsor_block_api_url_help_text">Это URL-адрес, который будет запрашиваться, когда приложению необходимо знать, какие части видео пропустить.\n\nВы можете установить официальный URL-адрес, щелкнув опцию \'Использовать официальный\' ниже, хотя настоятельно рекомендуется ознакомиться с политикой конфиденциальности SponsorBlock, прежде чем делать это.</string>
     <string name="sponsor_block_privacy_policy_text">SponsorBlock Политика Приватности</string>
     <string name="sponsor_block_homepage_url">https://sponsor.ajay.app/</string>
     <string name="sponsor_block_default_api_url">https://sponsor.ajay.app/api/</string>
     <string name="sponsor_block_privacy_policy_url">https://gist.github.com/ajayyy/aa9f8ded2b573d4f73a3ffa0ef74f796</string>
-    <string name="sponsor_block_skip_sponsor_toast">Пропущен sponsor</string>
+    <string name="sponsor_block_skip_sponsor_toast">Пропущен спонсор</string>
     <string name="sponsor_block_skip_intro_toast">Пропущено intermission/intro</string>
     <string name="sponsor_block_skip_outro_toast">Пропущено endcards/credits</string>
     <string name="sponsor_block_skip_interaction_toast">Пропущено interaction reminder</string>
@@ -798,7 +798,7 @@
     
     <string name="settings_category_sponsor_block_title">SponsorBlock (Beta, Сторонний сервис)</string>
     <string name="settings_category_sponsor_block_categories_title">Категории SponsorBlock</string>
-    <string name="settings_category_sponsor_block_categories_summary">Customize which video segments to skip, along with their color markings on the seek bar.</string>
+    <string name="settings_category_sponsor_block_categories_summary">Настройте, какие видео сегменты пропустить, вместе с их цветовой маркировкой на панели просмотра.</string>
     <string name="settings_category_sponsor_block_categories_reset_colors_title">Сбросить цвета</string>
     <string name="settings_category_sponsor_block_category_enable_title">Включить</string>
     <string name="settings_category_sponsor_block_category_color">Просмотр цвета бара</string>

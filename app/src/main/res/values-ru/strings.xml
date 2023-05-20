@@ -758,4 +758,79 @@
     <string name="remove_duplicates_title">Удалить дубликаты\?</string>
     <string name="feed_show_partially_watched">Частично просмотрено</string>
     <string name="remove_duplicates_message">Вы хотите удалить все повторяющиеся потоки в этом плейлисте\?</string>
+    
+        <!-- SponsorBlock -->
+    <string name="sponsor_block">SponsorBlock</string>
+    <string name="sponsor_block_home_page_title">Посмотреть Сайт</string>
+    <string name="sponsor_block_home_page_summary">Посмотреть официальный сайт SponsorBlock.</string>
+    <string name="sponsor_block_enable_title">Попуск Спонсоров</string>
+    <string name="sponsor_block_enable_summary">Использовать SponsorBlock API для автоматического пропуска спонсоров в видео. В настоящее время это работает только для YouTube видео.</string>
+    <string name="sponsor_block_api_url_title">API сайт</string>
+    <string name="sponsor_block_api_url_summary">Сайт для использования при запросе API SponsorBlock. Должно быть установлено для работы SponsorBlock.</string>
+    <string name="sponsor_block_notifications_title">Сообщать, когда спонсоры пропущены</string>
+    <string name="sponsor_block_notifications_summary">Show a toast notification when a sponsor is automatically skipped.</string>
+    <string name="sponsor_block_privacy_title">Посмотреть Политику Приватность</string>
+    <string name="sponsor_block_privacy_summary">Посмотреть политику приватности SponsorBlock.</string>
+    <string name="sponsor_block_api_url_help_text">This is the URL that will be queried when the application needs to know which parts of a video to skip.\n\nYou can set the official URL by clicking the \'Use Official\' option below, though it is highly recommended you view SponsorBlock\'s privacy policy before you do.</string>
+    <string name="sponsor_block_privacy_policy_text">SponsorBlock Политика Приватности</string>
+    <string name="sponsor_block_homepage_url">https://sponsor.ajay.app/</string>
+    <string name="sponsor_block_default_api_url">https://sponsor.ajay.app/api/</string>
+    <string name="sponsor_block_privacy_policy_url">https://gist.github.com/ajayyy/aa9f8ded2b573d4f73a3ffa0ef74f796</string>
+    <string name="sponsor_block_skip_sponsor_toast">Пропущен sponsor</string>
+    <string name="sponsor_block_skip_intro_toast">Пропущено intermission/intro</string>
+    <string name="sponsor_block_skip_outro_toast">Пропущено endcards/credits</string>
+    <string name="sponsor_block_skip_interaction_toast">Пропущено interaction reminder</string>
+    <string name="sponsor_block_skip_self_promo_toast">Пропущено unpaid/self promo</string>
+    <string name="sponsor_block_skip_non_music_toast">Пропущено non-music</string>
+    <string name="sponsor_block_skip_preview_toast">Пропущено preview/recap</string>
+    <string name="sponsor_block_skip_filler_toast">Пропущено filler</string>
+    <string name="sponsor_block_toggle_skipping">Переключить пропущенных спонсоров</string>
+    <string name="sponsor_block_clear_whitelist_title">Очистить Белый список</string>
+    <string name="sponsor_block_clear_whitelist_summary">Очистить список загрузчиков SponsorBlock будет игнорировать.</string>
+    <string name="sponsor_block_enabled_toast">SponsorBlock включен</string>
+    <string name="sponsor_block_disabled_toast">SponsorBlock отключен</string>
+    <string name="sponsor_block_whitelist_cleared_toast">Белый список очищен</string>
+    <string name="sponsor_block_uploader_added_to_whitelist_toast">Загрузчик добавлен в Белый список</string>
+    <string name="sponsor_block_uploader_removed_from_whitelist_toast">Загрузчик удалён из Белого списка</string>
+    <string name="sponsor_block_confirm_clear_whitelist">Вы уверены, что хотите очистить Белый список?</string>
+    <string name="sponsor_block_confirm_reset_colors">Вы точно хотите сбросить цвета категорий?</string>
+    <string name="sponsor_block_reset_colors_toast">Сбросить цвета.</string>
+    
+    <string name="settings_category_sponsor_block_title">SponsorBlock (Beta, Сторонний сервис)</string>
+    <string name="settings_category_sponsor_block_categories_title">Категории SponsorBlock</string>
+    <string name="settings_category_sponsor_block_categories_summary">Customize which video segments to skip, along with their color markings on the seek bar.</string>
+    <string name="settings_category_sponsor_block_categories_reset_colors_title">Сбросить цвета</string>
+    <string name="settings_category_sponsor_block_category_enable_title">Включить</string>
+    <string name="settings_category_sponsor_block_category_color">Просмотр цвета бара</string>
+    <string name="settings_category_sponsor_block_category_sponsor_title">Спонсор</string>
+    <string name="settings_category_sponsor_block_category_sponsor_summary">Paid promotion, paid referrals and direct advertisements. Not for self-promotion or free shoutouts to causes/creators/websites/products they like.</string>
+    <string name="settings_category_sponsor_block_category_intro_title">Intermission/Intro анимация</string>
+    <string name="settings_category_sponsor_block_category_intro_summary">An interval without actual content. Could be a pause, static frame, repeating animation. This should not be used for transitions containing information or be used on music videos.</string>
+    <string name="settings_category_sponsor_block_category_outro_title">Endcards/Credits</string>
+    <string name="settings_category_sponsor_block_category_outro_summary">Credits or when the YouTube endcards appear. Not for spoken conclusions. This should not include useful content. This should not be used on music videos.</string>
+    <string name="settings_category_sponsor_block_category_interaction_title">Interaction Reminds (Subscribe)</string>
+    <string name="settings_category_sponsor_block_category_interaction_summary">When there is a short reminder to like, subscribe or follow them in the middle of content. If it is long or about something specific, it should be under self promotion instead.</string>
+    <string name="settings_category_sponsor_block_category_self_promo_title">Unpaid/Self Promotion</string>
+    <string name="settings_category_sponsor_block_category_self_promo_summary">Similar to "sponsor" except for unpaid or self promotion. This includes sections about merchandise, donations, or information about who they collaborated with.</string>
+    <string name="settings_category_sponsor_block_category_non_music_title">Music: Non-Music Section</string>
+    <string name="settings_category_sponsor_block_category_non_music_summary">Only for use in music videos. This includes introductions or outros in music videos.</string>
+    <string name="settings_category_sponsor_block_category_preview_title">Preview/Recap</string>
+    <string name="settings_category_sponsor_block_category_preview_summary">Quick recap of previous episodes, or a preview of what\'s coming up later in the current video. Meant for edited together clips, not for spoken summaries.</string>
+    <string name="settings_category_sponsor_block_category_filler_title">Filler Tangent/Jokes</string>
+    <string name="settings_category_sponsor_block_category_filler_summary">This is for tangential scenes added only for filler or humor that are not required to understand the main content of the video.</string>
+    
+    <!-- Extras -->
+    <string name="extras">Extras</string>
+    <string name="extras_todo_summary">Твики, обходные пути и другие разные настройки находятся здесь.</string>
+    <string name="experimental_settings">Экспериментальные настройки</string>
+    <string name="enable_local_player_title">Включить встроенный плеер (alpha)</string>
+    <string name="enable_local_player_summary">Используйте встроенный плеер для локального воспроизведения. Это все еще находится в стадии разработки, поэтому, вероятно, будет много проблем, включая конфликты с существующим плеером.</string>
+    <string name="force_auto_fullscreen_title">Принудительный автоматический полноэкранный режим</string>
+    <string name="force_auto_fullscreen_summary">If enabled, when the device is set to landscape, force fullscreen mode even if the device is a tablet or TV.</string>
+    <string name="disable_error_reports_title">Отключить отчёты об ошибках</string>
+    <string name="disable_error_reports_summary">Prevent all error reporting screens from appearing. This may result in the app behaving unexpectedly. <b>USE AT YOUR OWN RISK!</b></string>
+    <string name="enable_return_youtube_dislike_title">Показывать дизлайки</string>
+    <string name="enable_return_youtube_dislike_summary">Использовать ReturnYouTubeDislike API показать количество дизлайков для видео. Это работает только для YouTube видео.\n<b>ВНИМАНИЕ: Ваш IP-адрес будет виден API. Используете на свой страх и риск!</b></string>
+
+    
 </resources>

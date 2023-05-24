@@ -803,9 +803,9 @@
     <string name="settings_category_sponsor_block_category_enable_title">Включить</string>
     <string name="settings_category_sponsor_block_category_color">Просмотр цвета бара</string>
     <string name="settings_category_sponsor_block_category_sponsor_title">Спонсор</string>
-    <string name="settings_category_sponsor_block_category_sponsor_summary">Paid promotion, paid referrals and direct advertisements. Not for self-promotion or free shoutouts to causes/creators/websites/products they like.</string>
+    <string name="settings_category_sponsor_block_category_sponsor_summary">Платное продвижение, платные рефералы и прямая реклама. Не для саморекламы или бесплатных криков о причинах/создателях/веб-сайтах/продуктах, которые им нравятся.</string>
     <string name="settings_category_sponsor_block_category_intro_title">Intermission/Intro анимация</string>
-    <string name="settings_category_sponsor_block_category_intro_summary">An interval without actual content. Could be a pause, static frame, repeating animation. This should not be used for transitions containing information or be used on music videos.</string>
+    <string name="settings_category_sponsor_block_category_intro_summary">Интервал без фактического содержания. Может быть пауза, статическая рамка, повторяющаяся анимация. Это не должно использоваться для переходов, содержащих информацию, или использоваться в музыкальных клипах.</string>
     <string name="settings_category_sponsor_block_category_outro_title">Endcards/Credits</string>
     <string name="settings_category_sponsor_block_category_outro_summary">Credits or when the YouTube endcards appear. Not for spoken conclusions. This should not include useful content. This should not be used on music videos.</string>
     <string name="settings_category_sponsor_block_category_interaction_title">Interaction Reminds (Subscribe)</string>

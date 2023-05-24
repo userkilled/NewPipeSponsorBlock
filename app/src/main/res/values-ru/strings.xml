@@ -826,9 +826,9 @@
     <string name="enable_local_player_title">Включить встроенный плеер (alpha)</string>
     <string name="enable_local_player_summary">Используйте встроенный плеер для локального воспроизведения. Это все еще находится в стадии разработки, поэтому, вероятно, будет много проблем, включая конфликты с существующим плеером.</string>
     <string name="force_auto_fullscreen_title">Принудительный автоматический полноэкранный режим</string>
-    <string name="force_auto_fullscreen_summary">If enabled, when the device is set to landscape, force fullscreen mode even if the device is a tablet or TV.</string>
+    <string name="force_auto_fullscreen_summary">Если включено, когда устройство настроено на ландшафт, включается принудительно полноэкранный режим, даже если устройство представляет собой планшет или телевизор.</string>
     <string name="disable_error_reports_title">Отключить отчёты об ошибках</string>
-    <string name="disable_error_reports_summary">Prevent all error reporting screens from appearing. This may result in the app behaving unexpectedly. <b>USE AT YOUR OWN RISK!</b></string>
+    <string name="disable_error_reports_summary">Не допускает появления всех экранов сообщений об ошибках. Это может привести к неожиданному поведению приложения. <b>ИСПОЛЬЗУЕТЕ НА СВОЙ СТРАХ И РИСК!</b></string>
     <string name="enable_return_youtube_dislike_title">Показывать дизлайки</string>
     <string name="enable_return_youtube_dislike_summary">Использовать ReturnYouTubeDislike API показать количество дизлайков для видео. Это работает только для YouTube видео.\n<b>ВНИМАНИЕ: Ваш IP-адрес будет виден API. Используете на свой страх и риск!</b></string>
 
